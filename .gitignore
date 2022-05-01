@@ -1,3 +1,6 @@
+*.swp
+gb_emu
+
 # Prerequisites
 *.d
 
